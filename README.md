@@ -73,3 +73,14 @@ O `reservation-service` é responsável pelo gerenciamento de reservas de livros
     * `404 Not Found`: Se nenhuma reserva for encontrada com o ID fornecido.
     * `409 Conflict`: Se a reserva já estiver com o status "CANCELADA".
     * `500 Internal Server Error` ou similar: Se a comunicação com o `book-service` falhar durante o processo.
+       
+---
+
+* **Alunos:**
+    * Gabriel Alexandre Marassi Sitta, RA: 223020912
+    * Kauan Henrique Bertalha, RA: 222620742
+    * Matheus Toscano Rossini, RA: 222122622
+    * João Antônio Rolo, RA: 220143992
+    * Andre Luis Jacob Roman, RA: 220145512
+    * Willyan Santos Tomaz e Silva, RA: 220141282
+ 
