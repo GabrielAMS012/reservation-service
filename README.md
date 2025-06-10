@@ -6,7 +6,7 @@ O `reservation-service` é responsável pelo gerenciamento de reservas de livros
 
 ### **Para executar o serviço:**
 
-1.  Garanta que o `book-service` já esteja em execução.
+1.  Garanta que o `book-service` (https://github.com/GabrielAMS012/book-service) já esteja em execução.
 2.  Navegue até o diretório raiz do projeto `reservation-service`.
 3.  Execute o seguinte comando Maven:
     ```bash
